@@ -22,5 +22,5 @@ def money():
     print(f"{dimes} dimes")
     print(f"{nickels} nickels")
     print(f"{pennies} pennies")
-    
+
 money()
